@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+
+# 本地私有配置，绝不入库（含 token、真实地址）
+.env
+.mcp.json
+local/
+
+# 调试产物
+*.log
+probe_*.json
+
+# 门店名缓存（运行时生成）
+.cache/

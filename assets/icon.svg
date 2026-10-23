@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#DA291C"/>
+
+  <!-- 下层面包 -->
+  <path d="M112 342 H400 V366 C400 392 344 410 256 410 C168 410 112 392 112 366 Z" fill="#FFC72C"/>
+  <!-- 肉饼 -->
+  <rect x="112" y="296" width="288" height="50" rx="16" fill="#6B3A16"/>
+  <!-- 生菜 -->
+  <rect x="100" y="254" width="312" height="28" fill="#FFF8E7"/>
+  <circle cx="124" cy="280" r="14" fill="#FFF8E7"/>
+  <circle cx="172" cy="284" r="14" fill="#FFF8E7"/>
+  <circle cx="220" cy="280" r="14" fill="#FFF8E7"/>
+  <circle cx="268" cy="284" r="14" fill="#FFF8E7"/>
+  <circle cx="316" cy="280" r="14" fill="#FFF8E7"/>
+  <circle cx="364" cy="284" r="14" fill="#FFF8E7"/>
+  <circle cx="404" cy="280" r="14" fill="#FFF8E7"/>
+  <!-- 上层面包 -->
+  <path d="M104 258 V246 C104 176 172 120 256 120 C340 120 408 176 408 246 V258 Z" fill="#FFC72C"/>
+  <!-- 芝麻 -->
+  <ellipse cx="184" cy="198" rx="11" ry="5.5" fill="#FFF8E7" transform="rotate(-24 184 198)"/>
+  <ellipse cx="234" cy="164" rx="11" ry="5.5" fill="#FFF8E7" transform="rotate(-8 234 164)"/>
+  <ellipse cx="290" cy="162" rx="11" ry="5.5" fill="#FFF8E7" transform="rotate(10 290 162)"/>
+  <ellipse cx="340" cy="198" rx="11" ry="5.5" fill="#FFF8E7" transform="rotate(26 340 198)"/>
+  <ellipse cx="262" cy="214" rx="11" ry="5.5" fill="#FFF8E7" transform="rotate(2 262 214)"/>
+</svg>
