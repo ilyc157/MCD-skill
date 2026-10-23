@@ -49,7 +49,8 @@ git clone https://github.com/ilyc157/---skill.git ~/.workbuddy/skills/mcd-meal-p
 **3. 把 token 配进去**，两种方式任选：
 
 - 写进 `~/.workbuddy/mcp.json`，给麦当劳那个 server 加请求头
-  `"Authorization": "Bearer <你的token>"`
+  `"Authorization": "Bearer <你的token>"`。可直接照抄 [mcp-config.example.json](mcp-config.example.json)，
+  把其中的 `${MCD_TOKEN}` 换成你的 token
 - 或者设环境变量 `export MCD_TOKEN=<你的token>`
 
 **4. 验证**
